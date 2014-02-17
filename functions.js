@@ -27,9 +27,9 @@ function calculateAge(birthYear, currentYear) {
     var age = currentYear - birthYear;
     console.log('You are either ' + age + ' or ' + (age - 1));
 }
-calculateAge(1988, 2012);
-calculateAge(1987, 2012);
-calculateAge(1986, 2012);
+calculateAge(1988, 2014);
+calculateAge(1987, 2014);
+calculateAge(1986, 2014);
 // EXERCISE: The Lifetime Supply Calculator
 
 // Ever wonder how much a "lifetime supply" of your favorite snack is? Wonder no more!
